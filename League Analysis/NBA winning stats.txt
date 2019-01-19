@@ -1,0 +1,12 @@
+NBA Data
+Avg winning rate for Top 5: 0.7109
+Avg winning rate for Bottom 5: 0.27202
+Avg standard deviation from 2000-2017: 0.1523665345903891
+Avg mean from 2000-2017: 0.50000 (it should be 50% for every league)
+
+NFL Data
+Avg winning rate for Top 5: 0.7833333333333334
+Avg winning rate for Bottom 5: 0.20555555555555555
+Avg standard deviation from 2000-2017: 0.1742852220798301
+Avg mean from 2000-2017: 0.50000
+
